@@ -1,4 +1,4 @@
-Repository created to show how to implement file download functionality in a WebView, **Complementary to [this](https://stackoverflow.com/questions/76820498/download-file-inside-webview-from-android-13) StackOverflow question.**
+Repository created to show how to implement file download functionality in a WebView, **Complementary to [this](https://stackoverflow.com/a/76823847/18939913) StackOverflow question.**
 
 **TL;DR** [Set download listener][1] on the `WebView` and use the [`DownloadManager`][2] to download the file to the **external Downloads directory**.
 
